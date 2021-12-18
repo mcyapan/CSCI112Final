@@ -1,4 +1,4 @@
-App_Name,Category,Rating,Size,Installs,Price,Content_Rating,App_Version,App_Description,Operating_System,Developer
+app_name,category,rating,size,installs,price,content_rating,version,app_description,os,developer
 Photo Editor & Candy Camera & Grid & ScrapBook,ART_AND_DESIGN,4.1,19.00,1873641,0,Everyone,1.0.0,,Android,Photolabs
 Coloring book moana,ART_AND_DESIGN,3.9,14.00,1444570,0,Everyone,2.0.0,,Android,Coloring Inc
 "U Launcher Lite – FREE Live Cool Themes, Hide Apps",ART_AND_DESIGN,4.7,8.70,4086704,0,Everyone,1.2.4,,iOS,Launcher Labs
