@@ -1,5 +1,7 @@
 # CSCI112Final
 
+An example of an appstore database deployed in AWS
+
 ## Files:
 ### Appstore Database Presentation.pdf
 - Presentation used for the demo of the database
