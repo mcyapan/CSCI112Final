@@ -1,6 +1,6 @@
 # CSCI112Final
 
-An example of an appstore database deployed in AWS
+An example of an appstore database deployed using DynamoDB in AWS
 
 ## Files:
 ### Appstore Database Presentation.pdf
